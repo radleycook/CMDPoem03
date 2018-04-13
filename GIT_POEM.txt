@@ -1,5 +1,6 @@
 Github helps us collaborate
 Our version control we can automate
-
 It also acts as a showcase 
 for a clean and well documented codebase
+If it's new to you, you should get to know
+It will change the way you code forever bro!
